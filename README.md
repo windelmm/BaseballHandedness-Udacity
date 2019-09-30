@@ -30,3 +30,5 @@ A second option is to view it directly on Tableau Public website using the follo
 * Udacity - for providing excellent classes on data visualisation
 * Tableau Public - for displaying the data story
 
+# Author
+Windels Manu
