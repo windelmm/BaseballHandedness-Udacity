@@ -13,7 +13,8 @@ This project is considered completed
 
 # Screenshots
 
-...
+![Screenshot1](Screen1.png)
+![Screenshot2](Screen2.png)
 
 # Software
 
